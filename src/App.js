@@ -9,7 +9,6 @@ function App() {
   useEffect(() => {
     const fetchmovies = async () => {
       try {
-        // NO RESPONSE FROM DUMMY API. USING RANDOM USER FOR IMAGES INSTEAD
         // const response = await fetch('https://dummyapi.online/api/movies/?results=10');
         const response = await fetch('https://randomuser.me/api/?results=12');
         const data = await response.json();
