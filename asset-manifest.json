@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radiantly/static/css/main.a50a24b1.css",
+    "main.js": "/radiantly/static/js/main.08710232.js",
+    "static/js/453.e73bdc1b.chunk.js": "/radiantly/static/js/453.e73bdc1b.chunk.js",
+    "index.html": "/radiantly/index.html",
+    "main.a50a24b1.css.map": "/radiantly/static/css/main.a50a24b1.css.map",
+    "main.08710232.js.map": "/radiantly/static/js/main.08710232.js.map",
+    "453.e73bdc1b.chunk.js.map": "/radiantly/static/js/453.e73bdc1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50a24b1.css",
+    "static/js/main.08710232.js"
+  ]
+}
